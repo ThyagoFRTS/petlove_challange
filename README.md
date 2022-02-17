@@ -4,7 +4,7 @@ This is an aplication to explore PetLove data
 
 ## Presentation
 
-See [this file]("./Síntese das Análises.pdf") for the presentation with the participant's insights and learnings
+<p> See [<a href="./Síntese das Análises.pdf">this file</a>] for the presentation with the participant's insights and learnings</p>
 
 ## Funcionalitties
 
