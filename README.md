@@ -2,7 +2,9 @@
 
 This is an aplication to explore PetLove data
 
-## Application Gui
+## Presentation
+
+See [this file](./Síntese das Análises.pdf) for the presentation with the participant's insights and learnings
 
 ## Funcionalitties
 
